@@ -38,4 +38,6 @@ This project is created to strengthen problem-solving skills and understand the 
 
 ## Author
 
-Khaled Hamdy
+End | Khaled Hamdy | Full-Stack .NET Developer
+My Website : https://khaled-dev.vercel.app/
+Linkedin : https://www.linkedin.com/in/khaledhamdy-tech/
